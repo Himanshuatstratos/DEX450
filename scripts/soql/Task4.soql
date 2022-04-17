@@ -1,0 +1,3 @@
+SELECT Id, Type
+  FROM Case
+  WHERE Subject LIKE '%Printers%'
